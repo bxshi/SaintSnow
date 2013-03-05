@@ -1,0 +1,13 @@
+{
+    "name" : "SaintSnow",
+    "version" : "0.0.1",
+    "author" : "Carmack.Shi",
+    "description" : "A http load test tool",
+
+    "dependencies" : {
+        "mocha" : "*",
+        "should" : "*",
+        "async" : "*"
+    },
+    "engines" : "0.8.x"
+}
